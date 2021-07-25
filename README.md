@@ -1,7 +1,7 @@
 # Puzzle-Animation
 **Math Physics, Coding animation [channel](https://www.youtube.com/channel/UC1zAcjvBEewJIZHZCE5eCOw)**
 
-**this repo contain source code for videos in my channel**
+**this repo contain source code for videos in [my channel](https://www.youtube.com/channel/UC1zAcjvBEewJIZHZCE5eCOw)**
 # Manim
 to render file on this repository you have to download [manim](https://github.com/3b1b/manim)(Python libary create by Grant Sanderson)
 
