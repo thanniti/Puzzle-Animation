@@ -8,5 +8,5 @@ if you already download, run the following command
 
 *-p for 1080p and -ql for 480p*
 # Example
-Number Spiral ((p,p)in polar coordiate for every positive integer)
+Number Spiral: ((p,p)in polar coordiate, p for every positive integer)
 ![spiral](https://github.com/thanniti/Puzzle-Animation/blob/main/Media/Spiral_ManimCE_v0.8.0.png)
